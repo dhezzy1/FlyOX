@@ -1,0 +1,13 @@
+.review {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 14px;
+    text-align: start;
+  }
+  
+  .review {
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+  }

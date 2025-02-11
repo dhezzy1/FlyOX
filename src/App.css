@@ -1,0 +1,74 @@
+.flightryoutcontainer {
+  display: flex;
+  padding: 80px;
+  gap: 20px;
+}
+.itemcardcontainer {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.App{
+    background-image:url(./assets/img/frame2.png);
+    display: flex;
+    flex-direction:center;
+    align-items: center;
+    width: 100%;
+    background-repeat: no-repeat;
+    justify-content: center;
+    height: 50vh;    
+}
+.reviews{
+    font:10px arial, helvetica;
+    display: flex;
+    flex-direction:center;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    background-color:#C7DEFF;
+    
+}
+.footer{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #130055;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1px;
+}
+
+.exploreimg {
+  height: 40vh;
+  background-color:#130055;
+  margin:  0px 80px;
+  background-image:url(../src/assets/img/planegif.gif);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 40px;
+  border-radius:10px;
+}
+
+.exploreimg p {
+  position: relative;
+  color: #130055;
+  font-size: 32px;
+  font-weight: 700;
+  top: 30px;
+}
+
+.trendcont {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.trendcont strong {
+  font-size: 36px;
+  font-weight: 700;
+  color: #100142;
+  text-align:center;
+}

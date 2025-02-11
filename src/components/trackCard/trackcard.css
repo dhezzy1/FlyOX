@@ -1,0 +1,29 @@
+
+.trackcard {
+    background-color:#eef4ff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.trackcard b {
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    color:#000;
+}
+.trackcard p {
+    margin-bottom: 40px;
+    font-size:16px;
+    line-height: 19.4px;
+    color:#4b4b4b;
+}
+.tryout {
+    padding: 14px 20px;
+    background-color: #130055;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}

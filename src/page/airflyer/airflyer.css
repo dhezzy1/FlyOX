@@ -1,0 +1,12 @@
+.airfly{
+    display: flex;
+    width: 389px;
+    height: 796px;
+    background-image: url(../../assets/img/frame2\ \(2\).png);
+    background-size:contain;
+    background-position: center;
+    @media (max-width: 1189px) {
+      width: 18rem;
+    }
+    @media (max-width: 768px) {};
+}

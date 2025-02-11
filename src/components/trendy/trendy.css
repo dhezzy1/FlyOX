@@ -1,0 +1,36 @@
+
+
+.trendcard {
+    display: flex;
+    gap: 20px;
+    padding: 0px 60px;
+}
+
+.trendcarddetail {
+    display: flex;
+    gap: 15px;
+    padding: 20px;
+}
+
+.trendcardimg{
+    border-radius:10px;
+    background-image:url(../../assets//img/Rectangle\ 13\ \(3\).png);
+}
+
+.trendcardtextbtn {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px 0px 40px 20px;
+}
+
+.trendcardtextbtn button {
+    padding: 20px;
+    background-color:#100142;
+    color: #ffffff;
+    border: none;
+}
+
+.discocunt {}
+
+.status {}
